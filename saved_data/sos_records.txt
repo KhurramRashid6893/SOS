@@ -1,0 +1,2 @@
+ 
+[2025-04-26 18:57:40] Latitude: 18.5925785, Longitude: 73.7183639, Emergency Contact: 9999999999
